@@ -6,3 +6,6 @@ Checks for email length, password length,
 Uses Flask, Python, and Werkzeug.
 
  Use flask run to run application
+
+
+![alt text](https://imgur.com/a/7F3yEQv)
