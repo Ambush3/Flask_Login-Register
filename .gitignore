@@ -4,3 +4,4 @@ __pycache__
 instance/database.db
 .gitignore
 instance
+.DS_Store
